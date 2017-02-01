@@ -1,0 +1,94 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+body {
+  background-color: #F7F7F7;
+  font-size: 14px;
+  color: black;
+  font-family: cursive;
+  line-height:;
+  background: url(http://www.hd-wallpaper.images-fonds.com/modules/mg3/albums/Art_Digital_Wallpaper_HD/Fantasy/Fantasy_wallpaper_HD_0055.jpg);
+  background-size: cover;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+.img1 {
+  border-radius: 10%;
+  margin: auto;
+    }
+
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+a:link {
+  color:#C0C0C0;
+  text-align: center;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
+.card {
+    background: #EBEBEB;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+    margin-bottom: 8%;
+    border-radius: 2%;
+    opacity: 0.7;
+
+}
+.img-circle {
+  border-radius: 50px;
+}
+.text-center{
+  text-align: center;
+}
+.card-white {
+  color: white;
+  padding-bottom: 30px;
+}
+
+.card img {
+  text-align: center;
+}
+.fa {
+  font-size: 50px;
+  display: block;
+  text-align:center;
+  margin: auto;
+}
+.nom2 li{
+  display: inline-block;
+  margin: 6%;
+
+}
+
+.nom2 {
+  background: #EBEBEB;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  margin-bottom: 8%;
+  border-radius: 2%;
+  opacity: 0.7;
+}
+.logo1 a:link {
+  color: blue;
+
+}
+
+.logo1 a:hover {
+  color: red;
+
+}
